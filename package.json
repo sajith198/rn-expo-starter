@@ -1,0 +1,8 @@
+{
+  "name": "new-react-native-expo-template",
+  "version": "0.0.1",
+  "description": "React Native Expo Template",
+  "repository": "https://github.com/sajith198/rn-expo-starter.git",
+  "author": "Sajith SR  <sajithsr198@gmail.com>",
+  "license": "MIT"
+}
